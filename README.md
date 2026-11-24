@@ -2,6 +2,8 @@
 
 An Android augmented reality guide to the solar system, built with Unity 6, AR Foundation and ARCore. Pick a planet from the home screen and see a textured, rotating 3D model of it placed in front of you through your phone's camera.
 
+**[Download the latest release (APK and project files)](../../releases/latest)**
+
 ## Features
 
 - Home screen with a button for each of the eight planets
